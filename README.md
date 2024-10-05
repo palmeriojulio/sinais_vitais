@@ -17,11 +17,10 @@ Listagem de Pacientes: Exibe uma lista de todos os pacientes cadastrados, permit
 Navegação Intuitiva: Utilize botões para acessar rapidamente as telas de registro de procedimentos e sinais vitais de cada paciente.
 
 ## Tecnologias Utilizadas
-
-Flutter: Framework para desenvolvimento multiplataforma (iOS, Android, Web, Desktop) usando Dart.
-Provider: Para gerenciamento de estado global e compartilhamento de dados entre os widgets.
-SQLite: Para persistência de dados local, utilizando o pacote sqflite.
-Form Builder: Facilita a criação e validação de formulários utilizando o pacote flutter_form_builder.
+  Flutter: Framework para desenvolvimento multiplataforma (iOS, Android, Web, Desktop) usando Dart.
+  Provider: Para gerenciamento de estado global e compartilhamento de dados entre os widgets.
+  SQLite: Para persistência de dados local, utilizando o pacote sqflite.
+  Form Builder: Facilita a criação e validação de formulários utilizando o pacote flutter_form_builder.
 
 ## Estrutura do Projeto
 
@@ -58,12 +57,13 @@ lib/
 
 - Passos para Execução
 
--Clone este repositório:
--git clone https://github.com/seu-usuario/sistema-monitoramento-pacientes.git
--cd sistema-monitoramento-pacientes
+-- Clone este repositório:
+-- git clone https://github.com/seu-usuario/sistema-monitoramento-pacientes.git
+-- cd sistema-monitoramento-pacientes
 
 - Instale as dependências:
--flutter pub get
+
+    flutter pub get
 
 Execute o aplicativo:
 
