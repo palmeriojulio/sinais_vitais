@@ -1,6 +1,8 @@
-## Sistema de Monitoramento de Pacientes
+## App de Monitoramento de Pacientes
 
-Este projeto é um sistema de monitoramento de pacientes desenvolvido em Flutter, criado para técnicos de enfermagem em Home Care. O sistema permite o cadastro de pacientes e o monitoramento de seus sinais vitais e procedimentos realizados durante cada visita.
+Este projeto é um APP para monitoramento de pacientes desenvolvido em Flutter, criado para técnicos de enfermagem em Home Care. 
+O sistema permite o cadastro de pacientes e o monitoramento de seus sinais vitais e procedimentos realizados durante cada visita.
+
 Funcionalidades Principais
 
     Cadastro de Pacientes: Adicione novos pacientes, incluindo dados como nome, idade, e informações de contato.
